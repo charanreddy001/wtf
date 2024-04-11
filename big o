@@ -1,0 +1,25 @@
+Computational power of different computers is different some computers may take 2.3 milli seconds for computing whereas some other computer with low computing power may take 5millli seconds
+	• So big o notation is used 
+	• o(n) means order of n 
+	• It takes mathematical notation to compare things
+	• 
+	• Above is the procedure for it
+	• 
+	
+	• For indexing a particular value in the array time it will be constant
+	• 
+	
+	
+	• Number of n is directly proportional to number of loops
+	• 
+
+	• If three loops are present but not in but not in continuous loop we can do like below multiply number of n in a  nested loop and add number of n if it is in a Separate loop.
+	
+	• Taking the fastest growing term a*n^2 
+	• And dropping constant becomes o(n^2)
+	• Here why we take only fastest growing term because it has major effect on the time than many others which are very minute
+	• 
+	•  binary search is used just to reduce time if we search number by number then time required will be much more
+	• In this method we take the middle number and then we compare with the number we came to search if it is lesser then we remove all the number behind it is the best and fast method 
+	• 
+	
